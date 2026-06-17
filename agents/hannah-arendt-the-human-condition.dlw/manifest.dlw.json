@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Life of Action",
+  "universe": "ARE · The Life of Action (ERĒMIA · female · the generations)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Life of Action:ARE:d56963⟧",
+  "carbon": "hannah-arendt-the-human-condition.carbon.tiff (TIFF)",
+  "silicon": "hannah-arendt-the-human-condition.silicon.png (PNG)",
+  "seal_sha256": "4a0e829bdec9e6dbd82a055f55abf4dbdd98e770cb711335073099059cf48df2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

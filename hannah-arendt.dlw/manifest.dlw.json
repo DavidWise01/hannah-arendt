@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Hannah Arendt",
+  "universe": "ARE · Hannah Arendt (ERĒMIA · female · the generations)",
+  "emergence": "",
+  "moniker": "⟦Hannah Arendt:ARE:a6a097⟧",
+  "carbon": "hannah-arendt.carbon.tiff (TIFF)",
+  "silicon": "hannah-arendt.silicon.png (PNG)",
+  "seal_sha256": "ca8df857589d370d00c07ba972b502f51ac01896ba26117e4ace1570da09e17f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
