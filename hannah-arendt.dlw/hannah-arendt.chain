@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 747
+slug  : hannah-arendt
+seal  : ca8df857589d370d00c07ba972b502f51ac01896ba26117e4ace1570da09e17f
+prev  : c15ce66e67d346a6043d3accfca1870598da2ea80ddb51945fd5cc64e2d6e5f1
+link  : 415b1bd5d459ef67ebea126ef9825440d3b775a10faabf67bb21282befd0c8f7
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
